@@ -20,7 +20,7 @@ author: Ryan O’Connor
 ###############################################
 
 navbar-links:
-- VERTIAS extra plots
+VERTIAS extra plots: "moving-plots"
 
 ################
 # --- Logo --- #
