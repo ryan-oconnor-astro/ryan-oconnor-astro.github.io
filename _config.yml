@@ -20,12 +20,6 @@ author: Ryan O’Connor
 ###############################################
 
 navbar-links:
-  Professionally:
-  - I'm a Researcher: "research"
-  - I'm a Writer: "writing"
-  Unprofessionally:
-    - I Row: "https://washurowing.org/"
-    - I Build Stuff: "builtstuff"
 
 ################
 # --- Logo --- #
